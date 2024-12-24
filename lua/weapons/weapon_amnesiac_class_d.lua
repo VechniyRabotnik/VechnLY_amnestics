@@ -1,3 +1,4 @@
+include("amnestic_config.lua")
 AddCSLuaFile()
 SWEP.myclass = "weapon_amnesiac_class_d"
 SWEP.classamenstic = "D" 
